@@ -1,11 +1,9 @@
-# Barts Life Sciences PMP Documentation
+# Barts Life Sciences Precision Medicine Platform Documentation
 
 ## Basics
 
 use markdown, put all files in the **docs** directory.
 
-[testing references](subdir/test.html)
-
-Sample list:
-- first
-- second
+Here you can find documentation about:
+- Our [Secure Data Environment](sde/index.html)
+- Something else, [in another directory](subdir.test.html)
