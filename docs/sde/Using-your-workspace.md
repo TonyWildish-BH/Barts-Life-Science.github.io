@@ -26,7 +26,7 @@ There are other services available, and new services can be created by building 
 
 ## Accessing a workspace
 When you log into the SDE, your initial view will look something like this. There will be a separate workspace for each project you have access to, in this example, there's only one project.
-![Empty workspace](/assets/sde/00-empty-workspace.png)
+![Empty workspace](../assets/sde/00-empty-workspace.png)
 
 (old style...)
 <img width="1364" alt="An empty workspace" src="https://github.com/Barts-Life-Science/AzureTRE/assets/153200306/e63fccfa-c5df-494c-b521-0ac7e74dd98b">

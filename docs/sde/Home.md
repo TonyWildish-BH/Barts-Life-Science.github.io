@@ -33,7 +33,7 @@ You should then be able to [log into the SDE](https://sde002.uksouth.cloudapp.az
 We have further information on how you can provide feedback and get [support](https://github.com/Barts-Life-Science/Support).
 
 ## Using your workspace
-See [Using your workspace](Using-your-workspace)
+See [Using your workspace](./Using-your-workspace.html)
 
 ## Timeline
 The approximate timeline for the SDE development is as follows:
