@@ -28,23 +28,17 @@ There are other services available, and new services can be created by building 
 When you log into the SDE, your initial view will look something like this. There will be a separate workspace for each project you have access to, in this example, there's only one project.
 ![Empty workspace](../assets/sde/00-empty-workspace.png)
 
-(old style...)
-<img width="1364" alt="An empty workspace" src="https://github.com/Barts-Life-Science/AzureTRE/assets/153200306/e63fccfa-c5df-494c-b521-0ac7e74dd98b">
-<br/>
-
 Click on the workspace to get the **Workspace Overview** page. There are other tabs there you can explore, to get more information about your workspace. They're not normally useful during operation, but if you file a bug report or an issue, a screenshot from the **Operations** tab is often helpful.
-<img width="1359" alt="01 workspace overview" src="https://github.com/Barts-Life-Science/AzureTRE/assets/153200306/cb37e2e3-530b-4364-b982-0e0a891150c1">
-<br/>
+![Workspace overview](01-workspace-overview)
 
 The workspace currently has no services in it. Using the **Create new** button on the right will bring up a menu of resources which you can choose from, then you fill in the form with a few parameters, and submit the form. Your workspace resources will then appear here, as you can see in the next screenshot. Here, we see a **Gitea** service, which is still deploying, and a **Guacamole** service, which is ready for use.
 
 N.B. We don't show the full process for deploying **Gitea** or **Guacamole**, since we will do that for you as part of the setup of your workspace. In any case, the process is very similar to that for creating a virtual machine, which is explained in detail below.
-<img width="1348" alt="03 workspace with services" src="https://github.com/Barts-Life-Science/AzureTRE/assets/153200306/ec7399a8-03da-4e57-ba18-9d3f3eb51e34">
+![Workspace with services](03-workspace-with-services)
 
 ## Creating a Virtual Machine
 Virtual machines are created via the **Guacamole** workspace service. From your workspace overview, click on the Guacamole service tile, which takes you to the screen below. Any existing VMs that you have access to will also be listed here, there are none at the moment.
-<img width="1358" alt="04 Virtual Desktop service" src="https://github.com/Barts-Life-Science/AzureTRE/assets/153200306/79f4cbc0-8b56-41a8-88c3-0d72db3298fa">
-<br/>
+![Virtual desktop service](04-Virtual-Desktop-service.png)
 
 Click the **Create new** button, then select an operating system, Windows or Linux.
 <img width="1351" alt="05 Choose a VM type" src="https://github.com/Barts-Life-Science/AzureTRE/assets/153200306/0fa82277-bf0f-41ea-90f5-be7c73bc911b">
