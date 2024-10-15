@@ -1,9 +1,10 @@
-# Barts Life Sciences Precision Medicine Platform Documentation
+# Barts Health Data Platform Documentation
 
-## Basics
+## Overview
 
-use markdown, put all files in the **docs** directory.
+Our documentation is spread across the three main functions within the Barts Health Data Platform (BHDP). These are:
+- The [Data Portal](portal/Home.html) for making Data Access Requests and managing your project once approved.
+- The [Analytics Data Core](adc/Homne.html) which transforms the data that you will be authorised access to.
+- Our [Secure Data Environment](sde/Home.html) based in Azure where you will be able to analyse the data we provide.
 
-Here you can find documentation about:
-- Our [Secure Data Environment](sde/Home.html)
-- Something else, [in another directory](subdir.test.html)
+If you have issues with any of these services or documentation then please contact XXX
